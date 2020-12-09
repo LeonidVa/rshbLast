@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0074bca-8ab1-4a96-b34e-722527119576" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ejhPmE3bS5jjRoxoSJasiqcU2v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../WebClient-Samples-Web-client_14/ClientScripts/TypeScript/ControlsRelation/ControlsRelationWebExtension" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0074bca-8ab1-4a96-b34e-722527119576" name="Default Changelist" comment="" />
+      <created>1594840887721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594840887721</updated>
+      <workItem from="1594840888802" duration="9000" />
+      <workItem from="1594840898292" duration="1356000" />
+      <workItem from="1596294202770" duration="614000" />
+      <workItem from="1596439833809" duration="24000" />
+      <workItem from="1598969745867" duration="2897000" />
+      <workItem from="1599025524664" duration="5484000" />
+      <workItem from="1599063733688" duration="10000" />
+      <workItem from="1599113255646" duration="6758000" />
+      <workItem from="1599130580300" duration="1764000" />
+      <workItem from="1599139480540" duration="1833000" />
+      <workItem from="1599200061986" duration="1575000" />
+      <workItem from="1599203880313" duration="3262000" />
+      <workItem from="1599300881290" duration="25000" />
+      <workItem from="1599300932343" duration="37000" />
+      <workItem from="1599465279229" duration="9520000" />
+      <workItem from="1599554141560" duration="742000" />
+      <workItem from="1599816507729" duration="599000" />
+      <workItem from="1600075899762" duration="614000" />
+      <workItem from="1600240908926" duration="22000" />
+      <workItem from="1600240938872" duration="20000" />
+      <workItem from="1600946042768" duration="40000" />
+      <workItem from="1600950425877" duration="617000" />
+      <workItem from="1603367376080" duration="1334000" />
+      <workItem from="1603431893950" duration="3655000" />
+      <workItem from="1605081199347" duration="618000" />
+      <workItem from="1605173277104" duration="599000" />
+      <workItem from="1605256137841" duration="86000" />
+      <workItem from="1605263679185" duration="599000" />
+      <workItem from="1605439518440" duration="105000" />
+      <workItem from="1605510541339" duration="614000" />
+      <workItem from="1605867260298" duration="917000" />
+      <workItem from="1606115270026" duration="48000" />
+      <workItem from="1607256762268" duration="814000" />
+      <workItem from="1607281192988" duration="599000" />
+      <workItem from="1607341764944" duration="551000" />
+      <workItem from="1607425031955" duration="905000" />
+      <workItem from="1607431793827" duration="24000" />
+      <workItem from="1607514088209" duration="356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/ControlsRelation.js" />
+        <option value="$PROJECT_DIR$/src/Index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="283" width="424" height="482" key="FileChooserDialogImpl" timestamp="1607514442600">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state x="623" y="275" width="424" height="482" key="FileChooserDialogImpl/0.27.1680.980/1680.0.1920.1080@0.27.1680.980" timestamp="1606115316503" />
+    <state x="712" y="283" width="424" height="482" key="FileChooserDialogImpl/0.27.1920.1010@0.27.1920.1010" timestamp="1607514442600" />
+  </component>
+</project>
